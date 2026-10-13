@@ -33,4 +33,5 @@ app.delete("/blogs/:id", (req, res) => {
 
   res.send("Blog deleted successfully");
 });
+
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));

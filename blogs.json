@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "title": "Introduction to Node.js",
+    "content": "Node.js lets you run JavaScript on the server.",
+    "draft": false
+  },
+  {
+    "id": 2,
+    "title": "Learning Express.js",
+    "content": "Express makes building APIs easier.",
+    "draft": true
+  },
+  {
+    "id": 3,
+    "title": "REST API Basics",
+    "content": "Learn how to build REST APIs.",
+    "draft": false
+  }
+]
